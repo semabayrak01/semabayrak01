@@ -12,8 +12,8 @@
 
   | Repository Name | Description  |
   | ------ | ------ |
-  | [Azure Projects](https://github.com/semabayrak01/Trfm_azure2_LB_Aset) | Azure IaC projects using Terrform |
-  | [AWS Projects](https://github.com/semabayrak01/cw-todo-app) | AWS IaC projects using Terrform |
+  | [Azure Projects](https://github.com/semabayrak01/Trfm_azure2_LB_Aset) | Azure IaC projects using Terraform |
+  | [AWS Projects](https://github.com/semabayrak01/cw-todo-app) | AWS IaC projects using Terraform |
   | [Docker Projects](https://github.com/semabayrak01/docker_compose_nginx_flask_mongo) | This is Docker project |
   | [Terraform](https://github.com/semabayrak01/Project_8_terraformAzure_1 )| Terraform projects deploys Azure IaC|
   | [Azure DevOps]( https://github.com/semabayrak01/Azure-Devop_CI-CD-angular-realworld-Model-app ) |Simple application of Azure DevOps |
