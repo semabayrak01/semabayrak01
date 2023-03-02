@@ -16,6 +16,6 @@
   | [AWS Projects](https://github.com/semabayrak01/cw-todo-app) | AWS IaC projects using Terrform |
   | [Docker Projects](https://github.com/semabayrak01/docker_compose_nginx_flask_mongo) | This is Docker project |
   | [Terraform](https://github.com/semabayrak01/Project_8_terraformAzure_1 )| Terraform projects deploys Azure IaC|
-  | [Azure DevOps]( | https://github.com/semabayrak01/Azure-Devop_CI-CD-angular-realworld-Model-app )|Simple application of Azure DevOps |
+  | [Azure DevOps]( https://github.com/semabayrak01/Azure-Devop_CI-CD-angular-realworld-Model-app ) |Simple application of Azure DevOps |
   | [Jenkins](https://github.com/semabayrak01/Jenkins-Pipeline-for-Web-Page-Application) | Jenkins with AWS |
   
